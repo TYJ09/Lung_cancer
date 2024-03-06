@@ -1,0 +1,123 @@
+Age
+Last Weight
+Current Weight
+Gender_FEMALE
+Gender_Female
+Gender_MALE
+Gender_Male
+Gender_NAN
+COPD History_No
+COPD History_None
+COPD History_Yes
+Genetic Markers_Not Present
+Genetic Markers_Present
+Air Pollution Exposure_High
+Air Pollution Exposure_Low
+Air Pollution Exposure_Medium
+Air Pollution Exposure_None
+Start Smoking_1923
+Start Smoking_1927
+Start Smoking_1928
+Start Smoking_1929
+Start Smoking_1930
+Start Smoking_1934
+Start Smoking_1935
+Start Smoking_1936
+Start Smoking_1937
+Start Smoking_1938
+Start Smoking_1939
+Start Smoking_1940
+Start Smoking_1941
+Start Smoking_1942
+Start Smoking_1943
+Start Smoking_1944
+Start Smoking_1945
+Start Smoking_1946
+Start Smoking_1947
+Start Smoking_1948
+Start Smoking_1949
+Start Smoking_1950
+Start Smoking_1951
+Start Smoking_1952
+Start Smoking_1953
+Start Smoking_1954
+Start Smoking_1955
+Start Smoking_1956
+Start Smoking_1957
+Start Smoking_1958
+Start Smoking_1959
+Start Smoking_1960
+Start Smoking_1961
+Start Smoking_1962
+Start Smoking_1963
+Start Smoking_1964
+Start Smoking_1965
+Start Smoking_1966
+Start Smoking_1967
+Start Smoking_1968
+Start Smoking_1969
+Start Smoking_1970
+Start Smoking_1971
+Start Smoking_1972
+Start Smoking_1973
+Start Smoking_1974
+Start Smoking_1975
+Start Smoking_1976
+Start Smoking_1977
+Start Smoking_1978
+Start Smoking_1979
+Start Smoking_1980
+Start Smoking_1981
+Start Smoking_1982
+Start Smoking_1983
+Start Smoking_1984
+Start Smoking_1985
+Start Smoking_1986
+Start Smoking_1987
+Start Smoking_1988
+Start Smoking_1989
+Start Smoking_1990
+Start Smoking_1991
+Start Smoking_1992
+Start Smoking_1993
+Start Smoking_1994
+Start Smoking_1995
+Start Smoking_1996
+Start Smoking_1997
+Start Smoking_1998
+Start Smoking_1999
+Start Smoking_2000
+Start Smoking_2001
+Start Smoking_2002
+Start Smoking_2003
+Start Smoking_2004
+Start Smoking_2005
+Start Smoking_2006
+Start Smoking_2007
+Start Smoking_2008
+Start Smoking_2009
+Start Smoking_2010
+Start Smoking_2011
+Start Smoking_2012
+Start Smoking_2013
+Start Smoking_2014
+Start Smoking_2015
+Start Smoking_2016
+Start Smoking_2017
+Start Smoking_2018
+Start Smoking_2019
+Start Smoking_2020
+Start Smoking_2021
+Start Smoking_2022
+Start Smoking_2023
+Start Smoking_2024
+Start Smoking_Not Applicable
+Taken Bronchodilators_No
+Taken Bronchodilators_None
+Taken Bronchodilators_Yes
+Frequency of Tiredness_High
+Frequency of Tiredness_Medium
+Frequency of Tiredness_None / Low
+Dominant Hand_Left
+Dominant Hand_Right
+Dominant Hand_RightBoth
