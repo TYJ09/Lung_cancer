@@ -127,4 +127,4 @@ for name, model in models.items():
 # Save results to JSON
 with open(f'{data_dir_path}/model_evaluation_results.json', 'w') as file:
     json.dump(results, file, indent=4)
-
+results.open
